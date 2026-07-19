@@ -1,4 +1,4 @@
-# postdocthesis
+# C-G-I2-Framework
 Developing AI as a Transformative Global Catalyst: The C = G × I² Framework for Human-Predefined Outcomes, Autonomous Mechanism Synthesis, and Long-Term Cascading Effects Aligned with UN SDG17
 Author: Somchet Isarankura, PhD (Independent AI Safety & SDGs Researcher)
 Concept DOI: 10.5281/zenodo.20765775
